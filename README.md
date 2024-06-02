@@ -1,4 +1,18 @@
-# practuka
-### About my project:
-##### I will create a Tic-Tac-Toe game in C++: 3x3 grid, for two players, every player may choose a letter between X and O, both players will get their chances to turn by turn.
-###### Also, I'm using Microsoft Visual Studio 2022.
+# Tic-Tac-Toe Game
+
+## Overview
+This project is a simple implementation of the classic Tic-Tac-Toe game in C++. It features a 3x3 grid where two players take turns marking cells with their chosen letters, either X or O, until one player wins or the game ends in a draw.
+
+## Features
+- 3x3 grid layout
+- Two-player gameplay
+- Players can choose their letter: X or O
+- Alternating turns between players
+- Win detection for rows, columns, and diagonals
+- End of game detection (win or draw)
+
+## Technologies Used
+- C++ programming language
+- Microsoft Visual Studio 2022
+
+
